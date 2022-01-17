@@ -7,7 +7,6 @@
         <artifactId>springboot-base</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <groupId>com.example</groupId>
     <artifactId>springboot-bussiness</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot-bussiness</name>

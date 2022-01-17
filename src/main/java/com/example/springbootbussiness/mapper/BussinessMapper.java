@@ -14,9 +14,9 @@ import org.apache.ibatis.annotations.Update;
  */
 @Mapper
 public interface BussinessMapper {
-    @Update("update t_order set amount=20 where id=54")
+    @Update("update t_order set amount=20 where id=65")
     void updateStock();
 
-    @Update("update t_order set amount=21 where id=54")
+    @Update("update t_order set amount=21 where id=65")
     void updateStock1();
 }
